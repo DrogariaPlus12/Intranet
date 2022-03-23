@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg-light {
+    background-color: #426c95!important;
+}
+a{
+    text-decoration: none;
+}
+td{
+    padding: 10px;
+}
